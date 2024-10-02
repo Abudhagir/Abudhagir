@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abudhagir
-- 👀 I’m interested in Computer Vision, NLP and Self Driving cars...
+- 👀 I’m working in Computer Vision, NLP and Self Driving cars...
 - 🌱 I’m currently working as Computer Vision Engineer
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me syedabudhagir@gmail.com
